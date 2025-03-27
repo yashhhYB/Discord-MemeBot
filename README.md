@@ -20,3 +20,4 @@ Before we get started, you will need a few things if you don't have them already
   
 
 ## How Does a Discord Bot Work?
+![Meme Bot Example](disBOT.png)
