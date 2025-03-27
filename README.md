@@ -1,5 +1,7 @@
 # Discord-MemeBot
 
+![Meme Bot Example](membott.png)
+
 ## Requirements
 Before we get started, you will need a few things if you don't have them already:
 
