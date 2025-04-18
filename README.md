@@ -38,6 +38,7 @@ To run your bot, you need a **Discord Bot Token**. You can obtain one by followi
 
 ---
 
+
 ### 3. Create a `.env` File  
 To keep your bot token secure, store it in a `.env` file instead of hardcoding it.  
 
